@@ -1,1 +1,0 @@
-/home/xy/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/RobotTrajectories.l

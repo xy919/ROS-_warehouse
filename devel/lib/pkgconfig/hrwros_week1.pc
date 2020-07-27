@@ -1,1 +1,0 @@
-/home/xy/hrwros_ws/devel/.private/hrwros_week1/lib/pkgconfig/hrwros_week1.pc
