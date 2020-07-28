@@ -1,0 +1,1 @@
+/home/xy/hrwros_ws/devel/.private/hrwros_gazebo/share/roseus/ros/hrwros_gazebo/msg/ConveyorBeltState.l
