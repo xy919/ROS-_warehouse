@@ -22,4 +22,3 @@ If its your main copy then you can just use
 git push
 ```
 
-**NOW you try pushing this file to github**
