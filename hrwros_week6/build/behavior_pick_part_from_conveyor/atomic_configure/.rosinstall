@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/xy/hrwros_ws/devel/.private/behavior_pick_part_from_conveyor/setup.sh
